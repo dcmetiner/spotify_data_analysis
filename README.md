@@ -1,6 +1,8 @@
+![cover](spotify_banner.png)
+
 # Spotify Song & Genre Analysis, Popularity Prediction and Building a Simple Recommendation System
 
-Welcome to our CS210 project about analyzing Spotify Data. We conducted our work through 3 main steps:
+Welcome to our project about analyzing Spotify Data as a part of Sabanci University CS210 Introduction to Data Science course. We conducted our work through 3 main steps:
 - Exploratory Data Analysis
 - Hypothesis Testing
 - Machine Learning
